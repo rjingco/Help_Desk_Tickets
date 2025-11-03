@@ -1,3 +1,6 @@
+<img width="507" height="316" alt="image" src="https://github.com/user-attachments/assets/fd4581fc-94d1-46a7-ae8e-6ad800737db7" />
+
+
 # Top 10 Help Desk Issues and Solutions
 
 This repository contains detailed explanations and solutions for the most common IT help desk issues. It is intended as a training and reference guide for IT support professionals.
